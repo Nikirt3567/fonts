@@ -19,7 +19,7 @@ subsets: "menu"
 subsets: "vietnamese"
 source {
   repository_url: "https://github.com/SorkinType/Alatsi/"
-  commit: "d6b4c8127bbd4bb13f9abf0f77504d8bae3269fd"
+  commit: "3c594b0850c27f61d1ff9584bd4b8c6cec1b9415"
   files {
     source_file: "OFL.txt"
     dest_file: "OFL.txt"
